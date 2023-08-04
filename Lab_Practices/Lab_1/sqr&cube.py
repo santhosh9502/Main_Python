@@ -1,0 +1,5 @@
+num1 = int(input("enter the number for Square:"))
+square = (num1 ** 2)
+cube = (num1 ** 3)
+print(f"the square of given number is {square}")
+print(f"the cube of given number is {cube}")
