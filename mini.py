@@ -56,6 +56,7 @@ num1 = input("enter the person1: ")
 num2 = input("enter the person2: ")
 num3 = input("enter the person3: ")
 
+
 if (num1 > num2) and (num1 > num3):
     print(f"{num1} is greatest")
 elif (num2 > num1) and (num2 > num3):
